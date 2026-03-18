@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1773770982 source:c:\users\admin\desktop\bmtp-kinsky-ki25\lab8\prj\testdriver\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"ModulesKinskyi.h"
+
+1773770417 c:\users\admin\desktop\bmtp-kinsky-ki25\lab8\prj\kinskyi_task8.1\moduleskinskyi.h
+
